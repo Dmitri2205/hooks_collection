@@ -1,0 +1,220 @@
+{
+    "Login":{
+       "heading":{
+          "login":{
+             "en":"Welcome to GSL Folders!",
+             "ru":"Добро пожаловать в GSL Folders!"
+          },
+          "restore":{
+             "en":"Enter your email and we will send a recovery link",
+             "ru":"Введите свой email и мы вышлем ссылку на восстановление",
+             "!sended":{
+                "en":"Open your e-mail and follow the instructions",
+                "ru":"Откройте вашу почту и следуйте инструкциям"
+             }
+          },
+          "change_pass":{
+             "en":"Change your password",
+             "ru":"Поменяйте ваш пароль"
+          }
+       },
+       "login_process":{
+          "username_input":{
+             "label":{
+                "en":"Login",
+                "ru":"Логин"
+             },
+             "tip":{
+                "en":"Usually it’s your e-mail",
+                "ru":"Как правило, Ваш email",
+                "error":{
+                   "en":"Wrong login",
+                   "ru":"Неверный логин"
+                }
+             }
+          },
+          "password_input":{
+             "label":{
+                "en":"Password",
+                "ru":"Пароль",
+                "change":{
+                   "newPass":{
+                      "en":"New password",
+                      "ru":"Новый пароль"
+                   },
+                   "confirm":{
+                      "en":"Confirm password",
+                      "ru":"Подтвердите пароль"
+                   },
+                   "tip":{
+                      "en":"Password must be more than 12 characters, at least 1 lowercase letter, a number and a special character",
+                      "ru":"Пароль должен быть более 12 символов, содержать хотя бы 1 строчную букву, число и спецсимвол",
+                      "error":{
+                         "en":"Passwords don’t fit!",
+                         "ru":"Пароли не совпадают!"
+                      },
+                      "success":{
+                        "en":"All good!",
+                        "ru":"Всё ок!"
+                      }
+                   }
+                }
+             },
+             "tip":{
+                "error":{
+                   "en":"Incorrect password",
+                   "ru":"Неверный пароль"
+                }
+             }
+          },
+          "remember_password":{
+             "en":"Remember password",
+             "ru":"Запомнить пароль"
+          },
+          "recover_email_input":{
+             "label":{
+                "en":"Your e-mail",
+                "ru":"Ваш e-mail"
+             },
+             "tip":{
+                "error":{
+                   "en":"Incorrect e-mail",
+                   "ru":"Неверный e-mail"
+                }
+             }
+          }
+       },
+       "buttons":{
+          "login":{
+             "enter":{
+                "en":"Enter",
+                "ru":"Вход"
+             },
+             "forgot":{
+                "en":"Forgot password?",
+                "ru":"Забыли пароль?"
+             }
+          },
+          "restore":{
+             "send":{
+                "en":"Send",
+                "ru":"Отправит"
+             },
+             "open":{
+                "en":"Open e-mail",
+                "ru":"Открыть почту"
+             },
+             "back":{
+                "en":"Back",
+                "ru":"Назад"
+             },
+             "change":{
+                "en":"Change",
+                "ru":"Сменить"
+             }
+          }
+       },
+       "alerts":{
+         "success":{
+            "en":"Request successfull!",
+            "ru":"Выполнено!"
+         },
+         "warning":{
+            "en":"Something went wrong!",
+            "ru":"Что-то пошло не так..."
+         },
+         "error":{
+            "en":"Wrong creditionals!",
+            "ru":"Неверный данные!"
+
+         }
+       }
+
+    },
+    "Dashboard":{
+      "header":{
+
+      },
+      "sidebar":{
+         "links":{
+            "main_screen":{
+               "en":"Main screen",
+               "ru":"Главный экран"
+            },
+            "orders":{
+               "en":"Orders",
+               "ru":"Заказы"
+            },
+            "tasks":{
+               "en":"Tasks",
+               "ru":"Задачи"
+            },
+            "mail":{
+               "en":"Mail",
+               "ru":"Почта"
+            },
+            "reports":{
+               "en":"Reports",
+               "ru":"Отчёты"
+            },
+            "calendar":{
+               "en":"Calendar",
+               "ru":"Календарь"
+            },
+            "manuals":{
+               "en":"Manuals",
+               "ru":"Справочники"
+            },
+            "settings":{
+               "en":"Settings",
+               "ru":"Настройки"
+            }
+
+         }
+      }
+    },
+   "TaskList":{
+      "heading":{
+         "en":"Notifications",
+         "ru":"Уведомления"
+      },
+      "tabs":{
+         "all":{
+            "en":"All",
+            "ru":"Все"
+         },
+         "informational":{
+            "en":"Informational",
+            "ru":"Информационные"
+         },
+         "internal":{
+            "en":"Internal",
+            "ru":"Внутренние"
+         },
+         "orders":{
+            "en":"Orders",
+            "ru":"Заказы"
+         }
+      }
+   },
+   "Manuals":{
+      "links":{
+         "banks":{
+            "en":"Banks",
+            "ru":"Банки"
+         },
+         "companies":{
+            "en":"Companies",
+            "ru":"Компании"
+         },
+         "employes":{
+            "en":"Employes",
+            "ru":"Сотрудники"
+         },
+         "clients":{
+            "en":"Clients",
+            "ru":"Клиенты"
+         }
+      }
+   }
+}
